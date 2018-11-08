@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8" />
+    <title>Insert title here</title>
+</head>
+<body>
+<h2>用户列表</h2>
+<div>
+    <ul>
+        <!--/*@thymesVar id="user" type="com.lufy.webappthemlef.model.User"*/-->
+        <li th:text="${user.id}">0</li>
+        <li th:text="${user.name}">zhansan</li>
+        <li th:text="${user.age}">1988-06-01</li>
+        <li th:text="${user.address}">12345</li>
+    </ul>
+</div>
+</body>
+</html>

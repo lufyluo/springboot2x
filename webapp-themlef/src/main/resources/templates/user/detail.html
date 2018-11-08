@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<ul>
+    <!--/*@thymesVar id="user" type="com.lufy.webappthemlef.model.User"*/-->
+    <li th:text="${user.id}">0</li>
+    <li th:text="${user.name}">zhansan</li>
+    <li th:text="${user.age}">1988-06-01</li>
+    <li th:text="${user.address}">12345</li>
+</ul>
+</body>
+</html>
