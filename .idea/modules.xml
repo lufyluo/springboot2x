@@ -4,7 +4,10 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/springboo2xdemo.iml" filepath="$PROJECT_DIR$/springboo2xdemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/webapp-pure/webapp-pure.iml" filepath="$PROJECT_DIR$/webapp-pure/webapp-pure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webapp-pure/webapp-pure.iml" filepath="$PROJECT_DIR$/webapp-pure/webapp-pure.iml" />
       <module fileurl="file://$PROJECT_DIR$/webapp-themlef/webapp-themlef.iml" filepath="$PROJECT_DIR$/webapp-themlef/webapp-themlef.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webapp-themlef/webapp-themlef.iml" filepath="$PROJECT_DIR$/webapp-themlef/webapp-themlef.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webapp_boot/webapp_boot.iml" filepath="$PROJECT_DIR$/webapp_boot/webapp_boot.iml" />
       <module fileurl="file://$PROJECT_DIR$/webapp_boot/webapp_boot.iml" filepath="$PROJECT_DIR$/webapp_boot/webapp_boot.iml" />
     </modules>
   </component>

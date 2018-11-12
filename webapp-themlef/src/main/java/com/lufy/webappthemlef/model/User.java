@@ -7,7 +7,7 @@ import javax.validation.constraints.Size;
 
 public class User {
     @NotNull(message = "id不能为空")
-    private Integer id;
+    private Long id;
     @NotNull(message = "name不能为空")
     private String name;
     @Min(value = 0,message = "最小值0")
@@ -15,19 +15,19 @@ public class User {
     private int age;
     @Size(min = 5,max = 20,message = "字符串长度在5-20")
     private String address;
-
-    public User(Integer id, String name, int age, String address) {
+    public User(){}
+    public User(Long id, String name, int age, String address) {
         this.id=id;
         this.name = name;
         this.age= age;
         this.address = address;
     }
 
-    public Integer getId() {
+    public Long getId() {
         return id;
     }
 
-    public void setId(Integer id) {
+    public void setId(Long id) {
         this.id = id;
     }
 
