@@ -10,10 +10,15 @@
         <option value="$PROJECT_DIR$/webapp_boot/pom.xml" />
         <option value="$PROJECT_DIR$/webapp-themlef/pom.xml" />
         <option value="$PROJECT_DIR$/webapp-pure/pom.xml" />
+        <option value="$PROJECT_DIR$/rabbitmq/pom.xml" />
+        <option value="$PROJECT_DIR$/receiver/pom.xml" />
+        <option value="$PROJECT_DIR$/sender/pom.xml" />
+        <option value="$PROJECT_DIR$/senderapi/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
       <set>
+        <option value="$PROJECT_DIR$/activemq/pom.xml" />
         <option value="$PROJECT_DIR$/webapp/pom.xml" />
       </set>
     </option>

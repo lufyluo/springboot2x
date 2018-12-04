@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/receiver/receiver.iml" filepath="$PROJECT_DIR$/receiver/receiver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sender/sender.iml" filepath="$PROJECT_DIR$/sender/sender.iml" />
+      <module fileurl="file://$PROJECT_DIR$/senderapi/senderapi.iml" filepath="$PROJECT_DIR$/senderapi/senderapi.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboo2xdemo.iml" filepath="$PROJECT_DIR$/springboo2xdemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/webapp-pure/webapp-pure.iml" filepath="$PROJECT_DIR$/webapp-pure/webapp-pure.iml" />
-      <module fileurl="file://$PROJECT_DIR$/webapp-pure/webapp-pure.iml" filepath="$PROJECT_DIR$/webapp-pure/webapp-pure.iml" />
       <module fileurl="file://$PROJECT_DIR$/webapp-themlef/webapp-themlef.iml" filepath="$PROJECT_DIR$/webapp-themlef/webapp-themlef.iml" />
-      <module fileurl="file://$PROJECT_DIR$/webapp-themlef/webapp-themlef.iml" filepath="$PROJECT_DIR$/webapp-themlef/webapp-themlef.iml" />
-      <module fileurl="file://$PROJECT_DIR$/webapp_boot/webapp_boot.iml" filepath="$PROJECT_DIR$/webapp_boot/webapp_boot.iml" />
       <module fileurl="file://$PROJECT_DIR$/webapp_boot/webapp_boot.iml" filepath="$PROJECT_DIR$/webapp_boot/webapp_boot.iml" />
     </modules>
   </component>
